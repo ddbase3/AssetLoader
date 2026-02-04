@@ -113,7 +113,7 @@ index.html
 
 ## 📄 License
 
-MIT License - free to use in personal and commercial projects.
+GPL v3.0 License.
 
 ---
 

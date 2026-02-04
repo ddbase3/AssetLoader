@@ -7,7 +7,7 @@
  * Ideal for CMS architectures and component-driven frontends.
  *
  * Author: Daniel Dahme / BASE3 (https://base3.de)
- * License: MIT License
+ * License: GPL v3.0 License
  */
 const AssetLoader = (function () {
     const loaded = new Set();
